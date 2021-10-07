@@ -10,5 +10,5 @@ Daily financial data of S&P 500, DJI, NASDAQ and US Small Cap 2000 (RUT) were ob
 
 ## Datasets
 
-### Financial_Data.csv
+### Combined.csv
 Merged data from &P 500, DJI, NASDAQ, US Small Cap 2000 (RUT) and daily reddit data with sentiment analysis
